@@ -1,0 +1,45 @@
+.structure{
+    margin: 30px;
+    padding: 20px;
+    border: 5px solid darkslateblue;
+    width: fit-content;
+    border-style: outset;
+    border-radius: 20px;
+    background-color: rgb(86, 73, 171);
+}
+
+#resultado{
+    border: 3px solid darkslateblue;
+    border-style: inset;
+    color: darkslateblue;
+    background-color: bisque;
+    border-radius: 10px;
+    width: 246px;
+    font-size: 10px;
+    height: 30px;
+    text-align: center;
+}
+
+.buttons{
+    padding-top: 5px;
+}
+
+button{
+    background-color: darkslateblue;
+    color: bisque;
+    border: 1px solid bisque;
+    border-radius: 10px;
+    padding: 10px 20px;
+    width: 60px;
+    font-size: 10px;
+    height: 30px;
+    border-style: outset;
+    margin: 1.5px 0px;
+}
+button:hover{
+    background-color: bisque;
+    color: darkslateblue;
+    border-color: darkslateblue;
+    border-style: inset;
+}
+
